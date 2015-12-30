@@ -1,0 +1,16 @@
+//
+//  WB-Prefix.pch
+//  WeiBo
+//
+//  Created by 千锋 on 15/12/29.
+//  Copyright (c) 2015年 LEE. All rights reserved.
+//
+
+#ifndef WeiBo_WB_Prefix_pch
+#define WeiBo_WB_Prefix_pch
+
+//尺寸相关 屏幕的宽和高
+#define SCREEN_WIDTH [UIScreen mainScreen].bounds.size.width
+#define SCREEN_HEIGHT [UIScreen mainScreen].bounds.size.height
+
+#endif
